@@ -9,9 +9,11 @@
 
 <strong>物种名称语料库（Species-Names-Corpus）</strong>
 
-20万。
+数据大小：20万。
 
-清洗后仍存有大量badcase。
+语料来源：多个词典汇总。
+
+数据清洗：已清洗，但仍存有大量badcase。
 
 ---
 
